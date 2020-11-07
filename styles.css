@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-family: arial;
+}
+
+video{
+	color: white;
+}
+
+small{
+	font-family: arial;
+}
+
+p{
+	color: white;
+	font-family: arial;
+}
+
+h2{
+	color: white;
+	font-family: arial;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color: red;
+}
