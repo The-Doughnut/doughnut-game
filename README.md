@@ -1,4 +1,4 @@
-# doughnut-game
+# Doughnut's Game
 
 This is a text based game, written in a batch script which runs on Windows 2000 and up.
 
