@@ -11,3 +11,7 @@ It all started on an ordinary day where you were ready to go to school. Or was i
 <b>Development</b>
 
 This game is far from finished. Any feedback in terms of gameplay and typos are appreciated!
+
+<b>How to play</b>
+
+In order to run the game, you can simply download the .bat of the version of your choice and run it directly if you are on a Windows 2000 machine or newer. Unfortunately, the game is not really compatible with MacOS or Linux unless if you use a virtual machine unless if you manage to find a way to run batch files yourslef.
